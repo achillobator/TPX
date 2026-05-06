@@ -18,17 +18,17 @@ This script analyzes lateral root density (LRD) phenotypes in Arabidopsis transg
 # Representative Code for RNA-Seq analysis of TPL/TPR mutants in Arabidopsis leaves:
 >RNASeq_analysis.R
 Comprehensive RNA-seq differential gene expression and co-expression analysis pipeline for Arabidopsis comparing transgenic lines (L1, L14, T23) against WT under mock and Botrytis infection conditions.
-Key sections:
-
-Data import & setup — Loads normalized count matrix, constructs metadata (genotype, treatment, timepoint), applies log2 transformation and variance filtering
-Dimensionality reduction — PCA and UMAP on full dataset and module-only subsets; generates publication-ready scatter plots with genotype/treatment stratification; includes trajectory visualization with connecting lines across timepoints
-Differential expression — Uses limma package to fit linear models with treatment/genotype/timepoint contrasts; extracts DEGs by FDR < 0.05 and log2FC > 1 for each comparison
-DEG overlap visualization — Builds per-genotype Venn diagrams (mock vs Botrytis T16 vs T20) and across-genotype Venns (comparing L1, L14, T23); bar plots showing up/downregulated gene counts per genotype and timepoint
-Co-expression clustering — Loads pre-computed gene modules (11 clusters from unsupervised analysis); z-score scales and summarizes per sample group; creates time-course line plots with error bars for each cluster across genotypes
-Module association analysis — Tests whether cluster expression is driven by genotype, treatment, or timepoint via ANOVA on eigengenes; generates 11 separate PCA plots colored by eigengene value per cluster
-PCA biplot — Extracts top 20 gene loadings on PC1/PC2 from module-only PCA; overlays loading arrows and gene labels to identify driver genes
-Selective heatmaps — Identifies genotype-driven (clusters 4, 6, 11) and timepoint-driven (clusters 3, 7, 10) gene sets; creates publication-quality heatmaps with row/column clustering and annotations; includes shared Botrytis DEG heatmap (1,677 genes)
-Gene ontology enrichment — Runs enrichGO on each cluster (Biological Process) using org.At.tair.db; generates two-stage export (FDR-filtered and unfiltered) to Excel spreadsheets
-DE direction annotation — Builds row annotations showing up/downregulation direction per genotype per timepoint for heatmap overlays
+>
+- Key sections:
+- Data import & setup — Loads normalized count matrix, constructs metadata (genotype, treatment, timepoint), applies log2 transformation and variance filtering
+- Dimensionality reduction — PCA and UMAP on full dataset and module-only subsets; generates publication-ready scatter plots with genotype/treatment stratification; includes trajectory visualization with connecting lines across timepoints
+- Differential expression — Uses limma package to fit linear models with treatment/genotype/timepoint contrasts; extracts DEGs by FDR < 0.05 and log2FC > 1 for each comparison
+- DEG overlap visualization — Builds per-genotype Venn diagrams (mock vs Botrytis T16 vs T20) and across-genotype Venns (comparing L1, L14, T23); bar plots showing up/downregulated gene counts per genotype and timepoint
+- Co-expression clustering — Loads pre-computed gene modules (11 clusters from unsupervised analysis); z-score scales and summarizes per sample group; creates time-course line plots with error bars for each cluster across genotypes
+- Module association analysis — Tests whether cluster expression is driven by genotype, treatment, or timepoint via ANOVA on eigengenes; generates 11 separate PCA plots colored by eigengene value per cluster
+- PCA biplot — Extracts top 20 gene loadings on PC1/PC2 from module-only PCA; overlays loading arrows and gene labels to identify driver genes
+- Selective heatmaps — Identifies genotype-driven (clusters 4, 6, 11) and timepoint-driven (clusters 3, 7, 10) gene sets; creates publication-quality heatmaps with row/column clustering and annotations; includes shared Botrytis DEG heatmap (1,677 genes)
+- Gene ontology enrichment — Runs enrichGO on each cluster (Biological Process) using org.At.tair.db; generates two-stage export (FDR-filtered and unfiltered) to Excel spreadsheets
+- DE direction annotation — Builds row annotations showing up/downregulation direction per genotype per timepoint for heatmap overlays
 
 Output files: Multiple PDFs of PCA/UMAP/heatmaps/line plots; Excel workbook with GO term enrichment results per cluster.
