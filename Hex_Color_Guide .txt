@@ -1,0 +1,4 @@
+--color-1: #D46600; Orange
+--color-2: #04D400; Green
+--color-3: #006ED4; Blue
+--color-4: #D000D4; Magenta

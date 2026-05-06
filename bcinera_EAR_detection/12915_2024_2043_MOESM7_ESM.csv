@@ -1,0 +1,854 @@
+﻿Supplementary Dataset S6: Prediction of effector proteins among BSPs using EffectorP and DeepRedEff.,,,
+GeneID,EffectorP3,EffectorP3_fungi,Deepredeff
+Bcin01g00200,Non-effector,Non-effector,non-effector
+Bcin01g00320,Cytoplasmic effector,Non-effector,non-effector
+Bcin01g00640,Non-effector,Non-effector,effector
+Bcin01g00790,Apoplastic effector,Apoplastic effector,non-effector
+Bcin01g00800,Non-effector,Non-effector,effector
+Bcin01g00900,Non-effector,Non-effector,effector
+Bcin01g00930,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin01g01115,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin01g01240,Non-effector,Non-effector,effector
+Bcin01g01330,Apoplastic effector,Apoplastic effector,non-effector
+Bcin01g01470,Non-effector,Non-effector,effector
+Bcin01g01480,Non-effector,Non-effector,effector
+Bcin01g01760,Non-effector,Non-effector,non-effector
+Bcin01g01980,Apoplastic effector,Apoplastic effector,effector
+Bcin01g02320,Non-effector,Non-effector,non-effector
+Bcin01g02430,Apoplastic effector,Apoplastic effector,non-effector
+Bcin01g02460,Non-effector,Non-effector,effector
+Bcin01g02470,Non-effector,Non-effector,non-effector
+Bcin01g02690,Non-effector,Non-effector,non-effector
+Bcin01g03150,Non-effector,Non-effector,non-effector
+Bcin01g03210,Non-effector,Non-effector,non-effector
+Bcin01g03330,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin01g03760,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin01g03910,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin01g04010,Non-effector,Non-effector,effector
+Bcin01g04250,Non-effector,Non-effector,effector
+Bcin01g04510,Non-effector,Non-effector,effector
+Bcin01g04530,Non-effector,Non-effector,effector
+Bcin01g04580,Non-effector,Non-effector,non-effector
+Bcin01g04820,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin01g04970,Apoplastic effector,Apoplastic effector,effector
+Bcin01g05020,Apoplastic effector,Apoplastic effector,effector
+Bcin01g05180,Apoplastic effector,Apoplastic effector,non-effector
+Bcin01g05310,Non-effector,Non-effector,effector
+Bcin01g05330,Non-effector,Non-effector,non-effector
+Bcin01g05680,Non-effector,Non-effector,effector
+Bcin01g05720,Non-effector,Non-effector,effector
+Bcin01g05940,Non-effector,Non-effector,effector
+Bcin01g06010,Apoplastic effector,Apoplastic effector,non-effector
+Bcin01g06060,Apoplastic effector,Apoplastic effector,effector
+Bcin01g06210,Non-effector,Non-effector,non-effector
+Bcin01g06790,Apoplastic effector,Apoplastic effector,non-effector
+Bcin01g06860,Non-effector,Non-effector,effector
+Bcin01g06900,Non-effector,Non-effector,non-effector
+Bcin01g07190,Non-effector,Non-effector,effector
+Bcin01g07200,Non-effector,Non-effector,effector
+Bcin01g07210,Non-effector,Non-effector,effector
+Bcin01g07250,Apoplastic effector,Apoplastic effector,non-effector
+Bcin01g07320,Non-effector,Non-effector,non-effector
+Bcin01g07330,Apoplastic effector,Apoplastic effector,non-effector
+Bcin01g07350,Non-effector,Non-effector,non-effector
+Bcin01g07380,Non-effector,Non-effector,effector
+Bcin01g07500,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin01g07530,Non-effector,Non-effector,non-effector
+Bcin01g07900,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin01g07950,Non-effector,Non-effector,effector
+Bcin01g08110,Non-effector,Non-effector,effector
+Bcin01g08910,Apoplastic effector,Apoplastic effector,non-effector
+Bcin01g09020,Non-effector,Non-effector,non-effector
+Bcin01g09180,Apoplastic effector,Apoplastic effector,effector
+Bcin01g09200,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin01g09430,Non-effector,Non-effector,effector
+Bcin01g10110,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin01g10830,Non-effector,Non-effector,non-effector
+Bcin01g10850,Non-effector,Non-effector,non-effector
+Bcin01g10940,Non-effector,Non-effector,non-effector
+Bcin01g11160,Apoplastic effector,Apoplastic effector,non-effector
+Bcin01g11220,Non-effector,Non-effector,non-effector
+Bcin01g11290,Non-effector,Non-effector,non-effector
+Bcin01g11300,Non-effector,Non-effector,effector
+Bcin01g11330,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin02g00018,Non-effector,Non-effector,effector
+Bcin02g00070,Non-effector,Non-effector,effector
+Bcin02g00210,Non-effector,Non-effector,effector
+Bcin02g00280,Non-effector,Non-effector,effector
+Bcin02g00350,Non-effector,Non-effector,effector
+Bcin02g00430,Non-effector,Non-effector,non-effector
+Bcin02g00440,Apoplastic effector,Apoplastic effector,effector
+Bcin02g00580,Non-effector,Non-effector,non-effector
+Bcin02g00700,Non-effector,Non-effector,non-effector
+Bcin02g00800,Cytoplasmic effector,Non-effector,effector
+Bcin02g01190,Non-effector,Non-effector,non-effector
+Bcin02g01230,Apoplastic effector,Apoplastic/cytoplasmic effector,non-effector
+Bcin02g01420,Apoplastic effector,Apoplastic effector,effector
+Bcin02g01640,Non-effector,Non-effector,effector
+Bcin02g01960,Apoplastic effector,Apoplastic effector,non-effector
+Bcin02g02040,Non-effector,Non-effector,non-effector
+Bcin02g02120,Non-effector,Non-effector,effector
+Bcin02g02210,Non-effector,Non-effector,non-effector
+Bcin02g02410,Non-effector,Non-effector,effector
+Bcin02g02430,Non-effector,Non-effector,non-effector
+Bcin02g02440,Non-effector,Non-effector,non-effector
+Bcin02g02450,Apoplastic effector,Apoplastic effector,effector
+Bcin02g02480,Non-effector,Non-effector,effector
+Bcin02g03090,Non-effector,Non-effector,effector
+Bcin02g03430,Non-effector,Non-effector,non-effector
+Bcin02g03840,Non-effector,Non-effector,non-effector
+Bcin02g04030,Apoplastic effector,Apoplastic effector,non-effector
+Bcin02g04040,Apoplastic effector,Apoplastic effector,effector
+Bcin02g04050,Cytoplasmic/apoplastic effector,Cytoplasmic/apoplastic effector,non-effector
+Bcin02g04090,Apoplastic effector,Apoplastic effector,non-effector
+Bcin02g04290,Apoplastic effector,Apoplastic effector,effector
+Bcin02g04320,Non-effector,Non-effector,non-effector
+Bcin02g04350,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin02g04400,Non-effector,Non-effector,effector
+Bcin02g04440,Apoplastic effector,Apoplastic effector,effector
+Bcin02g04550,Non-effector,Non-effector,effector
+Bcin02g04640,Apoplastic effector,Apoplastic effector,effector
+Bcin02g04660,Apoplastic effector,Apoplastic effector,effector
+Bcin02g04800,Non-effector,Non-effector,effector
+Bcin02g05060,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin02g05270,Non-effector,Non-effector,effector
+Bcin02g05300,Non-effector,Non-effector,non-effector
+Bcin02g05330,Non-effector,Non-effector,effector
+Bcin02g05340,Cytoplasmic effector,Non-effector,effector
+Bcin02g05360,Non-effector,Non-effector,non-effector
+Bcin02g05600,Apoplastic effector,Apoplastic effector,effector
+Bcin02g05610,Non-effector,Non-effector,effector
+Bcin02g05630,Non-effector,Non-effector,effector
+Bcin02g05790,Non-effector,Cytoplasmic effector,effector
+Bcin02g05860,Apoplastic effector,Apoplastic effector,effector
+Bcin02g06340,Non-effector,Non-effector,non-effector
+Bcin02g06610,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin02g06910,Non-effector,Non-effector,non-effector
+Bcin02g06940,Non-effector,Non-effector,non-effector
+Bcin02g07070,Non-effector,Non-effector,non-effector
+Bcin02g07080,Non-effector,Non-effector,non-effector
+Bcin02g07100,Apoplastic effector,Apoplastic effector,non-effector
+Bcin02g07310,Non-effector,Non-effector,non-effector
+Bcin02g07470,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin02g07520,Non-effector,Non-effector,effector
+Bcin02g07600,Cytoplasmic effector,Non-effector,non-effector
+Bcin02g07630,Non-effector,Non-effector,effector
+Bcin02g07640,Non-effector,Non-effector,effector
+Bcin02g07700,Apoplastic effector,Apoplastic effector,non-effector
+Bcin02g07770,Apoplastic effector,Apoplastic effector,non-effector
+Bcin02g07970,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin02g08230,Non-effector,Non-effector,effector
+Bcin02g08380,Non-effector,Non-effector,effector
+Bcin02g08590,Non-effector,Non-effector,non-effector
+Bcin02g08800,Non-effector,Non-effector,non-effector
+Bcin02g08970,Non-effector,Non-effector,non-effector
+Bcin02g09380,Non-effector,Non-effector,non-effector
+Bcin03g00280,Apoplastic effector,Apoplastic effector,effector
+Bcin03g00290,Non-effector,Non-effector,effector
+Bcin03g00320,Non-effector,Non-effector,effector
+Bcin03g00340,Non-effector,Non-effector,non-effector
+Bcin03g00380,Non-effector,Non-effector,non-effector
+Bcin03g00480,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g00500,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g00680,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g00890,Non-effector,Non-effector,effector
+Bcin03g01080,Non-effector,Non-effector,effector
+Bcin03g01250,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g01310,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin03g01440,Non-effector,Non-effector,non-effector
+Bcin03g01460,Non-effector,Non-effector,effector
+Bcin03g01540,Non-effector,Non-effector,effector
+Bcin03g01580,Non-effector,Non-effector,effector
+Bcin03g01600,Apoplastic effector,Apoplastic effector,effector
+Bcin03g01680,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g01810,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin03g01940,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin03g02030,Non-effector,Non-effector,effector
+Bcin03g02040,Non-effector,Non-effector,effector
+Bcin03g02110,Non-effector,Non-effector,effector
+Bcin03g02710,Non-effector,Non-effector,non-effector
+Bcin03g02760,Non-effector,Non-effector,non-effector
+Bcin03g02970,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g03180,Non-effector,Non-effector,effector
+Bcin03g03300,Non-effector,Non-effector,effector
+Bcin03g03470,Non-effector,Non-effector,effector
+Bcin03g03480,Non-effector,Non-effector,non-effector
+Bcin03g03540,Non-effector,Non-effector,effector
+Bcin03g03630,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g03830,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g03870,Non-effector,Non-effector,non-effector
+Bcin03g03990,Non-effector,Non-effector,non-effector
+Bcin03g04010,Non-effector,Non-effector,effector
+Bcin03g04310,Non-effector,Non-effector,non-effector
+Bcin03g04430,Cytoplasmic effector,Non-effector,non-effector
+Bcin03g05060,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g05200,Non-effector,Non-effector,effector
+Bcin03g05260,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin03g05290,Non-effector,Non-effector,effector
+Bcin03g05590,Non-effector,Non-effector,effector
+Bcin03g05600,Non-effector,Non-effector,effector
+Bcin03g05610,Non-effector,Non-effector,non-effector
+Bcin03g05720,Non-effector,Non-effector,non-effector
+Bcin03g05800,Non-effector,Non-effector,effector
+Bcin03g05820,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g05870,Non-effector,Non-effector,non-effector
+Bcin03g05890,Apoplastic effector,Apoplastic effector,effector
+Bcin03g06330,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g06740,Cytoplasmic effector,Non-effector,non-effector
+Bcin03g06930,Non-effector,Non-effector,effector
+Bcin03g07060,Non-effector,Non-effector,effector
+Bcin03g07320,Non-effector,Non-effector,non-effector
+Bcin03g07340,Non-effector,Non-effector,effector
+Bcin03g07360,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g07580,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin03g07730,Non-effector,Non-effector,effector
+Bcin03g08030,Apoplastic effector,Apoplastic effector,non-effector
+Bcin03g08230,Cytoplasmic effector,Non-effector,effector
+Bcin03g08710,Non-effector,Non-effector,effector
+Bcin03g09310,Non-effector,Non-effector,effector
+Bcin04g00270,Non-effector,Non-effector,non-effector
+Bcin04g00360,Apoplastic effector,Apoplastic effector,effector
+Bcin04g00420,Non-effector,Non-effector,non-effector
+Bcin04g00460,Apoplastic effector,Apoplastic effector,non-effector
+Bcin04g00470,Apoplastic effector,Apoplastic effector,non-effector
+Bcin04g01220,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin04g01310,Non-effector,Non-effector,effector
+Bcin04g01980,Non-effector,Non-effector,non-effector
+Bcin04g02310,Non-effector,Non-effector,non-effector
+Bcin04g02460,Non-effector,Non-effector,non-effector
+Bcin04g02480,Apoplastic effector,Apoplastic effector,effector
+Bcin04g02520,Non-effector,Non-effector,non-effector
+Bcin04g02570,Apoplastic/cytoplasmic effector,Apoplastic/cytoplasmic effector,effector
+Bcin04g02690,Non-effector,Non-effector,effector
+Bcin04g02950,Cytoplasmic effector,Non-effector,effector
+Bcin04g03440,Cytoplasmic effector,Non-effector,non-effector
+Bcin04g03460,Non-effector,Non-effector,non-effector
+Bcin04g03510,Non-effector,Non-effector,non-effector
+Bcin04g03620,Apoplastic effector,Apoplastic effector,non-effector
+Bcin04g03920,Apoplastic effector,Apoplastic effector,effector
+Bcin04g04030,Non-effector,Non-effector,non-effector
+Bcin04g04590,Non-effector,Non-effector,effector
+Bcin04g04760,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin04g04830,Non-effector,Non-effector,non-effector
+Bcin04g04900,Non-effector,Non-effector,non-effector
+Bcin04g04930,Apoplastic effector,Apoplastic effector,non-effector
+Bcin04g05020,Non-effector,Non-effector,non-effector
+Bcin04g05140,Non-effector,Non-effector,effector
+Bcin04g05270,Non-effector,Non-effector,effector
+Bcin04g05430,Non-effector,Non-effector,effector
+Bcin04g05490,Non-effector,Non-effector,non-effector
+Bcin04g05580,Non-effector,Non-effector,effector
+Bcin04g05650,Non-effector,Non-effector,effector
+Bcin04g05960,Non-effector,Non-effector,non-effector
+Bcin04g06020,Non-effector,Non-effector,effector
+Bcin04g06050,Non-effector,Non-effector,non-effector
+Bcin04g06150,Non-effector,Non-effector,effector
+Bcin04g06250,Non-effector,Non-effector,non-effector
+Bcin04g06590,Apoplastic effector,Apoplastic effector,effector
+Bcin04g06630,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin04g06650,Non-effector,Non-effector,non-effector
+Bcin04g06730,Non-effector,Non-effector,effector
+Bcin04g06770,Non-effector,Non-effector,effector
+Bcin04g06860,Non-effector,Non-effector,effector
+Bcin04g06920,Non-effector,Non-effector,non-effector
+Bcin04g06980,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin04g06990,Apoplastic effector,Apoplastic effector,non-effector
+Bcin05g00040,Non-effector,Non-effector,non-effector
+Bcin05g00100,Apoplastic effector,Apoplastic effector,effector
+Bcin05g00150,Non-effector,Non-effector,non-effector
+Bcin05g00310,Non-effector,Non-effector,non-effector
+Bcin05g00410,Apoplastic effector,Apoplastic effector,non-effector
+Bcin05g00590,Non-effector,Non-effector,non-effector
+Bcin05g00860,Non-effector,Non-effector,non-effector
+Bcin05g01450,Non-effector,Non-effector,non-effector
+Bcin05g01460,Apoplastic effector,Cytoplasmic/apoplastic effector,non-effector
+Bcin05g01510,Apoplastic effector,Apoplastic effector,non-effector
+Bcin05g01750,Non-effector,Non-effector,non-effector
+Bcin05g01770,Non-effector,Non-effector,non-effector
+Bcin05g01970,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin05g02410,Non-effector,Non-effector,non-effector
+Bcin05g02430,Non-effector,Non-effector,effector
+Bcin05g02440,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin05g02520,Apoplastic effector,Apoplastic effector,effector
+Bcin05g02550,Apoplastic effector,Apoplastic effector,effector
+Bcin05g03390,Non-effector,Non-effector,non-effector
+Bcin05g03460,Non-effector,Non-effector,effector
+Bcin05g03580,Non-effector,Non-effector,effector
+Bcin05g03680,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin05g03870,Apoplastic effector,Apoplastic effector,effector
+Bcin05g03990,Non-effector,Non-effector,effector
+Bcin05g04010,Non-effector,Non-effector,effector
+Bcin05g04190,Apoplastic effector,Apoplastic effector,effector
+Bcin05g04210,Cytoplasmic effector,Non-effector,effector
+Bcin05g04770,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin05g04800,Apoplastic effector,Apoplastic effector,non-effector
+Bcin05g04860,Cytoplasmic effector,Non-effector,effector
+Bcin05g04950,Non-effector,Non-effector,effector
+Bcin05g05110,Non-effector,Non-effector,effector
+Bcin05g05160,Non-effector,Non-effector,non-effector
+Bcin05g05310,Non-effector,Non-effector,effector
+Bcin05g05320,Non-effector,Non-effector,non-effector
+Bcin05g05420,Non-effector,Non-effector,effector
+Bcin05g05830,Non-effector,Non-effector,non-effector
+Bcin05g05900,Non-effector,Non-effector,non-effector
+Bcin05g05950,Non-effector,Non-effector,effector
+Bcin05g06020,Non-effector,Non-effector,effector
+Bcin05g06510,Non-effector,Non-effector,non-effector
+Bcin05g06830,Non-effector,Non-effector,effector
+Bcin05g07100,Non-effector,Non-effector,effector
+Bcin05g07630,Non-effector,Non-effector,effector
+Bcin05g07690,Non-effector,Non-effector,effector
+Bcin05g08090,Cytoplasmic effector,Non-effector,effector
+Bcin05g08130,Non-effector,Non-effector,non-effector
+Bcin05g08230,Non-effector,Non-effector,non-effector
+Bcin05g08240,Apoplastic effector,Apoplastic effector,non-effector
+Bcin05g08270,Non-effector,Non-effector,effector
+Bcin05g08330,Apoplastic effector,Apoplastic effector,non-effector
+Bcin05g08370,Cytoplasmic effector,Non-effector,effector
+Bcin06g00010,Non-effector,Cytoplasmic effector,effector
+Bcin06g00170,Apoplastic effector,Apoplastic effector,effector
+Bcin06g00180,Apoplastic effector,Apoplastic effector,effector
+Bcin06g00190,Apoplastic/cytoplasmic effector,Apoplastic/cytoplasmic effector,effector
+Bcin06g00280,Apoplastic effector,Cytoplasmic/apoplastic effector,effector
+Bcin06g00330,Non-effector,Non-effector,non-effector
+Bcin06g00400,Non-effector,Non-effector,effector
+Bcin06g00420,Non-effector,Non-effector,non-effector
+Bcin06g00480,Apoplastic effector,Apoplastic effector,effector
+Bcin06g00490,Non-effector,Non-effector,effector
+Bcin06g00500,Cytoplasmic/apoplastic effector,Cytoplasmic/apoplastic effector,non-effector
+Bcin06g00510,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin06g00520,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin06g00540,Apoplastic effector,Apoplastic effector,non-effector
+Bcin06g00550,Apoplastic effector,Apoplastic effector,non-effector
+Bcin06g00630,Non-effector,Non-effector,effector
+Bcin06g00660,Non-effector,Non-effector,non-effector
+Bcin06g00680,Non-effector,Non-effector,effector
+Bcin06g00890,Non-effector,Non-effector,non-effector
+Bcin06g00930,Apoplastic effector,Apoplastic effector,non-effector
+Bcin06g00960,Non-effector,Non-effector,effector
+Bcin06g01000,Apoplastic effector,Apoplastic effector,non-effector
+Bcin06g01010,Non-effector,Non-effector,effector
+Bcin06g01240,Non-effector,Non-effector,non-effector
+Bcin06g01300,Non-effector,Non-effector,effector
+Bcin06g01440,Non-effector,Non-effector,effector
+Bcin06g01580,Non-effector,Non-effector,effector
+Bcin06g01600,Non-effector,Non-effector,effector
+Bcin06g01630,Non-effector,Non-effector,non-effector
+Bcin06g01720,Non-effector,Non-effector,effector
+Bcin06g01760,Cytoplasmic effector,Non-effector,effector
+Bcin06g01780,Non-effector,Non-effector,effector
+Bcin06g01790,Non-effector,Non-effector,non-effector
+Bcin06g01930,Non-effector,Non-effector,effector
+Bcin06g01950,Non-effector,Non-effector,non-effector
+Bcin06g02140,Apoplastic effector,Apoplastic effector,non-effector
+Bcin06g02510,Non-effector,Non-effector,non-effector
+Bcin06g02690,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin06g02910,Apoplastic/cytoplasmic effector,Apoplastic/cytoplasmic effector,effector
+Bcin06g03070,Non-effector,Non-effector,non-effector
+Bcin06g03140,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin06g03160,Apoplastic effector,Apoplastic effector,effector
+Bcin06g03730,Non-effector,Cytoplasmic effector,effector
+Bcin06g03740,Non-effector,Cytoplasmic effector,effector
+Bcin06g03770,Non-effector,Non-effector,effector
+Bcin06g03840,Apoplastic effector,Apoplastic effector,effector
+Bcin06g03920,Non-effector,Non-effector,effector
+Bcin06g03960,Non-effector,Non-effector,non-effector
+Bcin06g04290,Apoplastic effector,Apoplastic effector,non-effector
+Bcin06g04500,Non-effector,Non-effector,non-effector
+Bcin06g04650,Apoplastic effector,Apoplastic effector,effector
+Bcin06g04750,Non-effector,Non-effector,non-effector
+Bcin06g04830,Non-effector,Non-effector,effector
+Bcin06g04910,Cytoplasmic/apoplastic effector,Cytoplasmic/apoplastic effector,effector
+Bcin06g05050,Apoplastic effector,Apoplastic effector,non-effector
+Bcin06g05090,Non-effector,Non-effector,non-effector
+Bcin06g05120,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin06g05200,Non-effector,Non-effector,non-effector
+Bcin06g05370,Non-effector,Non-effector,effector
+Bcin06g05540,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin06g05730,Cytoplasmic effector,Non-effector,effector
+Bcin06g05980,Apoplastic effector,Apoplastic effector,non-effector
+Bcin06g06040,Apoplastic effector,Apoplastic effector,effector
+Bcin06g06090,Non-effector,Non-effector,effector
+Bcin06g06410,Non-effector,Non-effector,effector
+Bcin06g06520,Non-effector,Non-effector,non-effector
+Bcin06g06580,Non-effector,Non-effector,effector
+Bcin06g06670,Non-effector,Non-effector,non-effector
+Bcin06g06720,Apoplastic effector,Apoplastic effector,non-effector
+Bcin06g06940,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin06g07000,Non-effector,Non-effector,non-effector
+Bcin06g07010,Apoplastic effector,Apoplastic effector,non-effector
+Bcin06g07020,Non-effector,Non-effector,effector
+Bcin06g07050,Apoplastic effector,Apoplastic effector,non-effector
+Bcin06g07150,Non-effector,Non-effector,effector
+Bcin06g07340,Non-effector,Non-effector,effector
+Bcin06g07500,Non-effector,Non-effector,effector
+Bcin07g00060,Non-effector,Non-effector,effector
+Bcin07g00320,Non-effector,Cytoplasmic effector,non-effector
+Bcin07g00710,Non-effector,Non-effector,non-effector
+Bcin07g00780,Apoplastic effector,Apoplastic effector,non-effector
+Bcin07g00890,Non-effector,Non-effector,non-effector
+Bcin07g01040,Non-effector,Non-effector,non-effector
+Bcin07g01070,Non-effector,Non-effector,effector
+Bcin07g01090,Non-effector,Non-effector,effector
+Bcin07g01110,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin07g01410,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin07g01720,Non-effector,Non-effector,effector
+Bcin07g02030,Non-effector,Cytoplasmic effector,effector
+Bcin07g02280,Apoplastic effector,Apoplastic effector,effector
+Bcin07g02510,Apoplastic effector,Apoplastic effector,non-effector
+Bcin07g02650,Non-effector,Non-effector,effector
+Bcin07g02670,Non-effector,Non-effector,non-effector
+Bcin07g02730,Non-effector,Non-effector,effector
+Bcin07g02810,Non-effector,Non-effector,non-effector
+Bcin07g02860,Apoplastic effector,Apoplastic effector,effector
+Bcin07g02940,Non-effector,Non-effector,effector
+Bcin07g02950,Apoplastic effector,Apoplastic effector,non-effector
+Bcin07g03120,Apoplastic effector,Apoplastic effector,effector
+Bcin07g03750,Apoplastic effector,Cytoplasmic/apoplastic effector,effector
+Bcin07g03770,Apoplastic effector,Apoplastic effector,non-effector
+Bcin07g03820,Non-effector,Non-effector,non-effector
+Bcin07g03980,Non-effector,Non-effector,effector
+Bcin07g04000,Non-effector,Non-effector,effector
+Bcin07g04030,Apoplastic effector,Apoplastic effector,non-effector
+Bcin07g04370,Non-effector,Non-effector,non-effector
+Bcin07g04440,Apoplastic effector,Apoplastic effector,effector
+Bcin07g04770,Non-effector,Non-effector,effector
+Bcin07g04810,Non-effector,Non-effector,non-effector
+Bcin07g04870,Non-effector,Non-effector,non-effector
+Bcin07g05440,Non-effector,Non-effector,effector
+Bcin07g05850,Apoplastic effector,Apoplastic effector,non-effector
+Bcin07g06190,Non-effector,Non-effector,effector
+Bcin07g06380,Non-effector,Non-effector,effector
+Bcin07g06480,Non-effector,Non-effector,non-effector
+Bcin07g06590,Apoplastic effector,Apoplastic effector,non-effector
+Bcin07g06600,Non-effector,Non-effector,effector
+Bcin07g06740,Non-effector,Non-effector,effector
+Bcin07g06770,Apoplastic effector,Apoplastic effector,effector
+Bcin07g06780,Non-effector,Non-effector,non-effector
+Bcin07g06950,Non-effector,Non-effector,non-effector
+Bcin07g07050,Non-effector,Non-effector,effector
+Bcin07g07080,Non-effector,Non-effector,non-effector
+Bcin08g00020,Apoplastic effector,Apoplastic effector,effector
+Bcin08g00040,Apoplastic effector,Apoplastic effector,effector
+Bcin08g00140,Non-effector,Non-effector,effector
+Bcin08g00150,Non-effector,Non-effector,non-effector
+Bcin08g00280,Non-effector,Non-effector,non-effector
+Bcin08g00400,Apoplastic effector,Apoplastic effector,non-effector
+Bcin08g00570,Apoplastic effector,Apoplastic effector,effector
+Bcin08g00720,Non-effector,Non-effector,non-effector
+Bcin08g00890,Non-effector,Non-effector,effector
+Bcin08g00910,Non-effector,Non-effector,non-effector
+Bcin08g00940,Apoplastic effector,Apoplastic/cytoplasmic effector,non-effector
+Bcin08g00950,Apoplastic effector,Apoplastic effector,effector
+Bcin08g00990,Apoplastic effector,Apoplastic effector,non-effector
+Bcin08g01020,Non-effector,Non-effector,effector
+Bcin08g01100,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin08g01140,Apoplastic effector,Apoplastic effector,effector
+Bcin08g01580,Apoplastic effector,Apoplastic effector,non-effector
+Bcin08g01900,Non-effector,Non-effector,non-effector
+Bcin08g01930,Non-effector,Non-effector,effector
+Bcin08g02110,Non-effector,Non-effector,non-effector
+Bcin08g02120,Non-effector,Non-effector,effector
+Bcin08g02130,Non-effector,Non-effector,non-effector
+Bcin08g02160,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin08g02380,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin08g02390,Non-effector,Non-effector,non-effector
+Bcin08g02470,Apoplastic effector,Apoplastic effector,non-effector
+Bcin08g02680,Non-effector,Non-effector,non-effector
+Bcin08g02970,Apoplastic effector,Apoplastic effector,effector
+Bcin08g02990,Non-effector,Non-effector,effector
+Bcin08g03110,Non-effector,Non-effector,non-effector
+Bcin08g03320,Non-effector,Non-effector,effector
+Bcin08g03410,Non-effector,Non-effector,non-effector
+Bcin08g03570,Non-effector,Non-effector,non-effector
+Bcin08g03760,Non-effector,Non-effector,effector
+Bcin08g03820,Apoplastic effector,Apoplastic effector,effector
+Bcin08g03940,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin08g03970,Non-effector,Non-effector,non-effector
+Bcin08g03990,Non-effector,Non-effector,effector
+Bcin08g04100,Non-effector,Non-effector,non-effector
+Bcin08g04280,Non-effector,Non-effector,effector
+Bcin08g04320,Non-effector,Non-effector,non-effector
+Bcin08g04440,Non-effector,Non-effector,non-effector
+Bcin08g04590,Non-effector,Non-effector,non-effector
+Bcin08g04700,Non-effector,Non-effector,effector
+Bcin08g04810,Non-effector,Non-effector,effector
+Bcin08g05010,Non-effector,Non-effector,effector
+Bcin08g05020,Non-effector,Non-effector,effector
+Bcin08g05080,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin08g05280,Non-effector,Non-effector,effector
+Bcin08g05370,Non-effector,Cytoplasmic effector,non-effector
+Bcin08g05450,Non-effector,Non-effector,effector
+Bcin08g05480,Non-effector,Non-effector,effector
+Bcin08g05540,Non-effector,Non-effector,effector
+Bcin08g05870,Non-effector,Non-effector,effector
+Bcin08g05990,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin08g06100,Non-effector,Non-effector,non-effector
+Bcin08g06110,Non-effector,Non-effector,non-effector
+Bcin08g06140,Non-effector,Non-effector,non-effector
+Bcin08g06160,Non-effector,Non-effector,effector
+Bcin08g06830,Non-effector,Non-effector,effector
+Bcin08g06900,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin08g07050,Apoplastic effector,Apoplastic effector,effector
+Bcin08g07090,Apoplastic effector,Apoplastic effector,non-effector
+Bcin08g07120,Non-effector,Non-effector,effector
+Bcin09g00190,Non-effector,Non-effector,non-effector
+Bcin09g00200,Non-effector,Non-effector,non-effector
+Bcin09g00220,Apoplastic effector,Apoplastic effector,effector
+Bcin09g00300,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin09g00380,Apoplastic effector,Apoplastic effector,effector
+Bcin09g00450,Non-effector,Non-effector,non-effector
+Bcin09g00460,Non-effector,Non-effector,non-effector
+Bcin09g00470,Non-effector,Non-effector,effector
+Bcin09g00510,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin09g00620,Non-effector,Non-effector,non-effector
+Bcin09g00970,Apoplastic effector,Apoplastic effector,effector
+Bcin09g01060,Apoplastic effector,Apoplastic effector,effector
+Bcin09g01110,Apoplastic effector,Apoplastic effector,non-effector
+Bcin09g01710,Apoplastic effector,Cytoplasmic/apoplastic effector,non-effector
+Bcin09g01800,Non-effector,Non-effector,non-effector
+Bcin09g02160,Apoplastic effector,Apoplastic effector,non-effector
+Bcin09g02260,Non-effector,Non-effector,effector
+Bcin09g02270,Non-effector,Non-effector,effector
+Bcin09g02640,Non-effector,Non-effector,effector
+Bcin09g02720,Non-effector,Non-effector,effector
+Bcin09g02890,Apoplastic effector,Apoplastic effector,non-effector
+Bcin09g02940,Non-effector,Non-effector,non-effector
+Bcin09g03320,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin09g03430,Non-effector,Non-effector,effector
+Bcin09g03490,Non-effector,Non-effector,effector
+Bcin09g03700,Non-effector,Non-effector,non-effector
+Bcin09g04020,Non-effector,Non-effector,effector
+Bcin09g04220,Non-effector,Non-effector,effector
+Bcin09g04230,Apoplastic effector,Apoplastic effector,non-effector
+Bcin09g04320,Non-effector,Non-effector,non-effector
+Bcin09g04410,Non-effector,Non-effector,effector
+Bcin09g04430,Non-effector,Non-effector,effector
+Bcin09g04440,Non-effector,Non-effector,non-effector
+Bcin09g04490,Non-effector,Non-effector,effector
+Bcin09g04570,Non-effector,Non-effector,non-effector
+Bcin09g04790,Non-effector,Non-effector,effector
+Bcin09g04820,Non-effector,Non-effector,non-effector
+Bcin09g04940,Non-effector,Non-effector,effector
+Bcin09g05010,Non-effector,Non-effector,effector
+Bcin09g05170,Non-effector,Non-effector,effector
+Bcin09g05250,Non-effector,Non-effector,non-effector
+Bcin09g05470,Non-effector,Non-effector,effector
+Bcin09g05740,Non-effector,Non-effector,effector
+Bcin09g06000,Non-effector,Non-effector,effector
+Bcin09g06020,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin09g06730,Non-effector,Non-effector,effector
+Bcin09g06810,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin09g06880,Non-effector,Non-effector,effector
+Bcin09g06920,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin09g06990,Non-effector,Non-effector,non-effector
+Bcin09g07010,Non-effector,Non-effector,effector
+Bcin09g07100,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin09g07110,Non-effector,Non-effector,effector
+Bcin10g00290,Non-effector,Non-effector,non-effector
+Bcin10g00310,Non-effector,Non-effector,non-effector
+Bcin10g00380,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin10g00480,Non-effector,Non-effector,effector
+Bcin10g00850,Non-effector,Non-effector,effector
+Bcin10g00960,Non-effector,Non-effector,effector
+Bcin10g01020,Apoplastic effector,Apoplastic effector,effector
+Bcin10g01080,Non-effector,Non-effector,effector
+Bcin10g01340,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin10g01510,Non-effector,Non-effector,non-effector
+Bcin10g01610,Non-effector,Non-effector,effector
+Bcin10g01640,Apoplastic effector,Apoplastic effector,effector
+Bcin10g01780,Non-effector,Non-effector,effector
+Bcin10g01890,Non-effector,Non-effector,non-effector
+Bcin10g01900,Non-effector,Non-effector,effector
+Bcin10g01960,Non-effector,Non-effector,effector
+Bcin10g01980,Non-effector,Non-effector,effector
+Bcin10g02180,Non-effector,Non-effector,effector
+Bcin10g02230,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin10g02560,Non-effector,Non-effector,effector
+Bcin10g02890,Apoplastic effector,Apoplastic effector,non-effector
+Bcin10g03120,Non-effector,Non-effector,non-effector
+Bcin10g03450,Non-effector,Non-effector,non-effector
+Bcin10g03730,Non-effector,Non-effector,non-effector
+Bcin10g03770,Non-effector,Non-effector,non-effector
+Bcin10g03860,Cytoplasmic effector,Non-effector,non-effector
+Bcin10g04320,Non-effector,Non-effector,non-effector
+Bcin10g04330,Non-effector,Non-effector,non-effector
+Bcin10g04560,Apoplastic/cytoplasmic effector,Apoplastic/cytoplasmic effector,non-effector
+Bcin10g04570,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin10g04980,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin10g05010,Non-effector,Non-effector,non-effector
+Bcin10g05020,Non-effector,Non-effector,non-effector
+Bcin10g05620,Apoplastic effector,Apoplastic effector,effector
+Bcin10g05630,Non-effector,Non-effector,effector
+Bcin10g05700,Apoplastic effector,Apoplastic effector,effector
+Bcin10g05710,Non-effector,Non-effector,non-effector
+Bcin10g05910,Non-effector,Non-effector,effector
+Bcin10g06130,Apoplastic effector,Apoplastic effector,effector
+Bcin10g06140,Apoplastic effector,Apoplastic effector,non-effector
+Bcin11g00010,Non-effector,Non-effector,non-effector
+Bcin11g00040,Non-effector,Non-effector,non-effector
+Bcin11g00300,Non-effector,Non-effector,effector
+Bcin11g00310,Non-effector,Non-effector,non-effector
+Bcin11g00400,Non-effector,Non-effector,non-effector
+Bcin11g00940,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin11g01090,Non-effector,Non-effector,non-effector
+Bcin11g01310,Non-effector,Non-effector,non-effector
+Bcin11g01320,Non-effector,Non-effector,effector
+Bcin11g01370,Non-effector,Non-effector,effector
+Bcin11g01400,Apoplastic effector,Apoplastic effector,effector
+Bcin11g01430,Non-effector,Non-effector,effector
+Bcin11g01450,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin11g01840,Non-effector,Non-effector,effector
+Bcin11g01910,Non-effector,Non-effector,non-effector
+Bcin11g02150,Apoplastic effector,Apoplastic effector,non-effector
+Bcin11g02170,Non-effector,Non-effector,non-effector
+Bcin11g02180,Non-effector,Non-effector,effector
+Bcin11g02830,Non-effector,Non-effector,non-effector
+Bcin11g02900,Non-effector,Non-effector,effector
+Bcin11g03340,Non-effector,Non-effector,effector
+Bcin11g03930,Non-effector,Non-effector,non-effector
+Bcin11g04120,Cytoplasmic effector,Non-effector,effector
+Bcin11g04450,Non-effector,Cytoplasmic effector,non-effector
+Bcin11g04610,Cytoplasmic effector,Non-effector,non-effector
+Bcin11g04730,Non-effector,Non-effector,non-effector
+Bcin11g04800,Apoplastic effector,Apoplastic effector,non-effector
+Bcin11g04910,Cytoplasmic/apoplastic effector,Cytoplasmic/apoplastic effector,effector
+Bcin11g04930,Cytoplasmic effector,Non-effector,non-effector
+Bcin11g04960,Apoplastic effector,Apoplastic effector,effector
+Bcin11g05360,Apoplastic effector,Apoplastic effector,effector
+Bcin11g05540,Apoplastic effector,Apoplastic effector,effector
+Bcin11g06120,Non-effector,Non-effector,effector
+Bcin11g06220,Apoplastic effector,Apoplastic effector,non-effector
+Bcin11g06400,Non-effector,Non-effector,non-effector
+Bcin11g06440,Non-effector,Non-effector,non-effector
+Bcin11g06450,Non-effector,Non-effector,non-effector
+Bcin12g00050,Non-effector,Non-effector,effector
+Bcin12g00080,Apoplastic effector,Apoplastic effector,effector
+Bcin12g00090,Apoplastic effector,Apoplastic effector,non-effector
+Bcin12g00180,Non-effector,Non-effector,non-effector
+Bcin12g00300,Non-effector,Non-effector,effector
+Bcin12g00350,Non-effector,Non-effector,non-effector
+Bcin12g00380,Non-effector,Non-effector,effector
+Bcin12g00580,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin12g00950,Apoplastic effector,Apoplastic effector,non-effector
+Bcin12g00990,Non-effector,Non-effector,non-effector
+Bcin12g01100,Apoplastic effector,Apoplastic effector,non-effector
+Bcin12g01520,Non-effector,Non-effector,effector
+Bcin12g01600,Apoplastic effector,Apoplastic/cytoplasmic effector,non-effector
+Bcin12g01690,Non-effector,Non-effector,non-effector
+Bcin12g02040,Non-effector,Non-effector,effector
+Bcin12g02120,Non-effector,Non-effector,non-effector
+Bcin12g02190,Non-effector,Non-effector,non-effector
+Bcin12g02910,Non-effector,Non-effector,effector
+Bcin12g03040,Non-effector,Non-effector,non-effector
+Bcin12g03090,Non-effector,Non-effector,effector
+Bcin12g03130,Non-effector,Non-effector,effector
+Bcin12g03270,Cytoplasmic effector,Non-effector,non-effector
+Bcin12g03390,Non-effector,Non-effector,non-effector
+Bcin12g03420,Non-effector,Non-effector,non-effector
+Bcin12g03430,Non-effector,Non-effector,non-effector
+Bcin12g03520,Apoplastic effector,Apoplastic effector,non-effector
+Bcin12g03550,Apoplastic effector,Apoplastic effector,effector
+Bcin12g03690,Non-effector,Non-effector,non-effector
+Bcin12g03920,Apoplastic effector,Apoplastic effector,non-effector
+Bcin12g04390,Non-effector,Non-effector,non-effector
+Bcin12g04410,Non-effector,Non-effector,effector
+Bcin12g04440,Apoplastic effector,Apoplastic effector,non-effector
+Bcin12g04530,Apoplastic effector,Apoplastic effector,effector
+Bcin12g04630,Non-effector,Non-effector,effector
+Bcin12g04640,Non-effector,Non-effector,effector
+Bcin12g04740,Non-effector,Non-effector,effector
+Bcin12g04930,Non-effector,Non-effector,effector
+Bcin12g05130,Non-effector,Non-effector,effector
+Bcin12g05620,Apoplastic effector,Apoplastic effector,non-effector
+Bcin12g05860,Non-effector,Non-effector,non-effector
+Bcin12g05990,Non-effector,Non-effector,effector
+Bcin12g06040,Non-effector,Non-effector,effector
+Bcin12g06110,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin12g06120,Non-effector,Non-effector,non-effector
+Bcin12g06300,Non-effector,Non-effector,effector
+Bcin12g06330,Non-effector,Non-effector,effector
+Bcin12g06360,Non-effector,Non-effector,non-effector
+Bcin12g06410,Non-effector,Non-effector,non-effector
+Bcin12g06590,Non-effector,Non-effector,effector
+Bcin12g06630,Non-effector,Non-effector,non-effector
+Bcin12g06700,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin12g06710,Non-effector,Non-effector,effector
+Bcin12g06760,Apoplastic/cytoplasmic effector,Apoplastic/cytoplasmic effector,effector
+Bcin12g06770,Non-effector,Non-effector,effector
+Bcin13g00040,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin13g00050,Apoplastic effector,Apoplastic effector,effector
+Bcin13g00080,Non-effector,Non-effector,effector
+Bcin13g00110,Non-effector,Non-effector,effector
+Bcin13g00300,Apoplastic effector,Apoplastic effector,effector
+Bcin13g00380,Apoplastic effector,Apoplastic effector,non-effector
+Bcin13g00470,Non-effector,Non-effector,effector
+Bcin13g00600,Apoplastic effector,Apoplastic effector,effector
+Bcin13g01130,Cytoplasmic/apoplastic effector,Cytoplasmic/apoplastic effector,effector
+Bcin13g01750,Non-effector,Non-effector,effector
+Bcin13g01770,Non-effector,Non-effector,effector
+Bcin13g01780,Apoplastic effector,Cytoplasmic/apoplastic effector,effector
+Bcin13g02010,Non-effector,Non-effector,non-effector
+Bcin13g02090,Non-effector,Non-effector,effector
+Bcin13g02100,Apoplastic effector,Apoplastic effector,non-effector
+Bcin13g02200,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin13g02210,Apoplastic effector,Apoplastic effector,effector
+Bcin13g02320,Non-effector,Non-effector,effector
+Bcin13g02330,Non-effector,Non-effector,effector
+Bcin13g02480,Non-effector,Non-effector,effector
+Bcin13g02540,Non-effector,Non-effector,non-effector
+Bcin13g02640,Apoplastic effector,Apoplastic effector,non-effector
+Bcin13g02710,Non-effector,Non-effector,effector
+Bcin13g02960,Apoplastic effector,Apoplastic effector,effector
+Bcin13g03080,Non-effector,Non-effector,effector
+Bcin13g03160,Non-effector,Non-effector,non-effector
+Bcin13g03170,Non-effector,Non-effector,non-effector
+Bcin13g03350,Non-effector,Non-effector,effector
+Bcin13g03390,Non-effector,Non-effector,effector
+Bcin13g03410,Non-effector,Non-effector,non-effector
+Bcin13g03550,Apoplastic effector,Apoplastic effector,non-effector
+Bcin13g03640,Non-effector,Non-effector,non-effector
+Bcin13g03680,Non-effector,Non-effector,non-effector
+Bcin13g03720,Non-effector,Non-effector,effector
+Bcin13g03750,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin13g03950,Non-effector,Non-effector,non-effector
+Bcin13g04440,Non-effector,Non-effector,effector
+Bcin13g04530,Non-effector,Non-effector,non-effector
+Bcin13g04850,Non-effector,Non-effector,effector
+Bcin13g05670,Non-effector,Non-effector,effector
+Bcin13g05690,Cytoplasmic effector,Non-effector,effector
+Bcin13g05710,Non-effector,Non-effector,effector
+Bcin13g05760,Apoplastic effector,Apoplastic effector,non-effector
+Bcin13g05780,Non-effector,Non-effector,non-effector
+Bcin14g00240,Non-effector,Non-effector,effector
+Bcin14g00390,Apoplastic effector,Apoplastic effector,non-effector
+Bcin14g00570,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin14g00610,Apoplastic effector,Apoplastic effector,effector
+Bcin14g00650,Non-effector,Non-effector,effector
+Bcin14g00670,Apoplastic effector,Apoplastic effector,non-effector
+Bcin14g00760,Non-effector,Non-effector,non-effector
+Bcin14g00810,Non-effector,Non-effector,non-effector
+Bcin14g00850,Apoplastic effector,Apoplastic effector,non-effector
+Bcin14g00860,Apoplastic effector,Apoplastic effector,non-effector
+Bcin14g00910,Apoplastic effector,Apoplastic effector,non-effector
+Bcin14g00930,Non-effector,Non-effector,non-effector
+Bcin14g01200,Apoplastic effector,Apoplastic effector,non-effector
+Bcin14g01390,Non-effector,Non-effector,non-effector
+Bcin14g01420,Apoplastic effector,Apoplastic effector,effector
+Bcin14g01490,Non-effector,Non-effector,non-effector
+Bcin14g01520,Non-effector,Non-effector,effector
+Bcin14g01630,Apoplastic effector,Apoplastic effector,effector
+Bcin14g01690,Apoplastic effector,Apoplastic effector,effector
+Bcin14g01700,Non-effector,Non-effector,non-effector
+Bcin14g01850,Apoplastic effector,Apoplastic effector,non-effector
+Bcin14g01900,Non-effector,Non-effector,effector
+Bcin14g02470,Non-effector,Non-effector,non-effector
+Bcin14g02510,Non-effector,Non-effector,effector
+Bcin14g03140,Cytoplasmic/apoplastic effector,Cytoplasmic/apoplastic effector,effector
+Bcin14g03170,Non-effector,Non-effector,effector
+Bcin14g03310,Apoplastic effector,Apoplastic effector,effector
+Bcin14g03970,Non-effector,Non-effector,effector
+Bcin14g04030,Apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin14g04040,Non-effector,Non-effector,non-effector
+Bcin14g04260,Non-effector,Non-effector,non-effector
+Bcin14g04560,Apoplastic effector,Apoplastic effector,effector
+Bcin14g05330,Non-effector,Non-effector,effector
+Bcin14g05390,Non-effector,Non-effector,non-effector
+Bcin14g05500,Non-effector,Non-effector,non-effector
+Bcin14g05510,Non-effector,Non-effector,effector
+Bcin14g05530,Non-effector,Non-effector,effector
+Bcin14g05570,Non-effector,Non-effector,non-effector
+Bcin15g00100,Apoplastic effector,Apoplastic effector,effector
+Bcin15g00130,Apoplastic effector,Apoplastic effector,non-effector
+Bcin15g00170,Non-effector,Non-effector,effector
+Bcin15g00730,Non-effector,Non-effector,non-effector
+Bcin15g00800,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin15g01030,Non-effector,Non-effector,non-effector
+Bcin15g01050,Non-effector,Non-effector,non-effector
+Bcin15g01110,Non-effector,Non-effector,non-effector
+Bcin15g01170,Non-effector,Non-effector,non-effector
+Bcin15g01400,Non-effector,Non-effector,effector
+Bcin15g01600,Apoplastic effector,Apoplastic effector,non-effector
+Bcin15g01710,Non-effector,Non-effector,effector
+Bcin15g01910,Non-effector,Non-effector,effector
+Bcin15g01960,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin15g01990,Non-effector,Non-effector,effector
+Bcin15g02200,Non-effector,Non-effector,non-effector
+Bcin15g02320,Non-effector,Non-effector,non-effector
+Bcin15g02380,Apoplastic effector,Apoplastic effector,non-effector
+Bcin15g02390,Non-effector,Cytoplasmic effector,effector
+Bcin15g02440,Non-effector,Non-effector,effector
+Bcin15g02540,Non-effector,Non-effector,effector
+Bcin15g03000,Non-effector,Non-effector,effector
+Bcin15g03080,Non-effector,Non-effector,non-effector
+Bcin15g03140,Apoplastic effector,Apoplastic effector,effector
+Bcin15g03150,Non-effector,Non-effector,non-effector
+Bcin15g03270,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin15g03320,Non-effector,Non-effector,effector
+Bcin15g03470,Apoplastic effector,Apoplastic effector,effector
+Bcin15g03870,Non-effector,Non-effector,effector
+Bcin15g03910,Non-effector,Non-effector,effector
+Bcin15g04010,Cytoplasmic effector,Cytoplasmic effector,effector
+Bcin15g04100,Apoplastic effector,Apoplastic effector,non-effector
+Bcin15g04250,Apoplastic effector,Apoplastic effector,effector
+Bcin15g04520,Non-effector,Non-effector,effector
+Bcin15g04670,Non-effector,Non-effector,non-effector
+Bcin15g04770,Apoplastic effector,Apoplastic effector,effector
+Bcin15g04850,Cytoplasmic/apoplastic effector,Cytoplasmic/apoplastic effector,effector
+Bcin15g04860,Non-effector,Non-effector,non-effector
+Bcin15g04870,Apoplastic/cytoplasmic effector,Apoplastic/cytoplasmic effector,effector
+Bcin15g04880,Apoplastic effector,Apoplastic effector,effector
+Bcin15g04930,Apoplastic effector,Apoplastic effector,non-effector
+Bcin15g05030,Non-effector,Non-effector,effector
+Bcin15g05220,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin15g05260,Non-effector,Non-effector,non-effector
+Bcin15g05280,Apoplastic effector,Apoplastic effector,effector
+Bcin15g05320,Non-effector,Non-effector,non-effector
+Bcin15g05510,Non-effector,Non-effector,effector
+Bcin15g05580,Non-effector,Non-effector,non-effector
+Bcin15g05700,Non-effector,Non-effector,effector
+Bcin16g00006,Non-effector,Non-effector,effector
+Bcin16g00080,Non-effector,Non-effector,effector
+Bcin16g00170,Cytoplasmic/apoplastic effector,Cytoplasmic/apoplastic effector,effector
+Bcin16g00260,Non-effector,Non-effector,non-effector
+Bcin16g00400,Cytoplasmic/apoplastic effector,Apoplastic/cytoplasmic effector,effector
+Bcin16g00410,Non-effector,Non-effector,effector
+Bcin16g00510,Non-effector,Non-effector,non-effector
+Bcin16g00790,Non-effector,Non-effector,non-effector
+Bcin16g00930,Apoplastic effector,Apoplastic effector,non-effector
+Bcin16g00950,Non-effector,Non-effector,non-effector
+Bcin16g01050,Non-effector,Non-effector,effector
+Bcin16g01090,Non-effector,Non-effector,effector
+Bcin16g01460,Non-effector,Non-effector,effector
+Bcin16g01590,Non-effector,Non-effector,non-effector
+Bcin16g01630,Non-effector,Non-effector,non-effector
+Bcin16g01670,Non-effector,Non-effector,non-effector
+Bcin16g01700,Non-effector,Non-effector,effector
+Bcin16g01950,Non-effector,Non-effector,non-effector
+Bcin16g02130,Non-effector,Non-effector,non-effector
+Bcin16g02160,Non-effector,Non-effector,effector
+Bcin16g02380,Non-effector,Non-effector,non-effector
+Bcin16g02400,Non-effector,Non-effector,effector
+Bcin16g02430,Non-effector,Non-effector,effector
+Bcin16g02460,Apoplastic effector,Apoplastic effector,effector
+Bcin16g02470,Non-effector,Non-effector,non-effector
+Bcin16g02490,Non-effector,Non-effector,effector
+Bcin16g02560,Non-effector,Non-effector,non-effector
+Bcin16g02720,Non-effector,Non-effector,effector
+Bcin16g02770,Non-effector,Non-effector,effector
+Bcin16g02850,Non-effector,Non-effector,non-effector
+Bcin16g02960,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin16g03000,Non-effector,Non-effector,effector
+Bcin16g03020,Non-effector,Non-effector,effector
+Bcin16g03050,Cytoplasmic effector,Cytoplasmic effector,non-effector
+Bcin16g03240,Non-effector,Non-effector,effector
+Bcin16g03950,Apoplastic effector,Apoplastic effector,non-effector
+Bcin16g03980,Non-effector,Non-effector,non-effector
+Bcin16g04020,Apoplastic effector,Apoplastic effector,non-effector
+Bcin16g04140,Apoplastic effector,Apoplastic effector,effector
+Bcin16g04210,Non-effector,Non-effector,non-effector
+Bcin16g04460,Non-effector,Non-effector,non-effector
+Bcin16g04630,Apoplastic effector,Apoplastic effector,non-effector
+Bcin16g04990,Apoplastic effector,Apoplastic effector,effector
+Bcin16g05050,Non-effector,Non-effector,effector
+Bcin16g05195,Non-effector,Non-effector,effector
